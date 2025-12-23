@@ -1,8 +1,3 @@
-Here is a **professional, Upwork-ready README file** you can directly include with your project submission.
-It clearly explains **what the client wanted** and **how you solved it step by step**.
-
----
-
 # 📊 Decision Tree–Based Customer Targeting for Deposit Campaign
 
 ## 📌 Project Overview
