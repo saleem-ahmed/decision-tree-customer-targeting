@@ -125,19 +125,3 @@ The client asked for:
 * ✔ Reproducible **Jupyter Notebook**
 * ✔ Clear documentation for non-technical users
 
----
-
-## 🧠 Conclusion
-
-This project provides a **practical, explainable, and business-oriented solution** that enables the marketing team to make data-driven decisions while minimizing campaign cost and maximizing conversion rates.
-
----
-
-If you want, I can also:
-
-* Shorten this for **Upwork proposal text**
-* Rewrite it in **more formal / academic style**
-* Convert it into a **client-facing PDF**
-* Add a **Results & Impact** section
-
-Just tell me 👍
